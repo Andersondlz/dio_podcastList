@@ -10,5 +10,17 @@
         "episode": "RUBENS BURRICHELLO - FLOW #339",
         "videoID": "4KDGTdiOV4I",
         "category": ["esporte","corrida"]
+    },
+    {
+        "podcastName": "Flow",
+        "episode": "ANDERSON DA LUZ - Aprendendo um pouco de NodeJS",
+        "videoID": "4KDGTdiOV4I",
+        "category": ["programação","NodJS"]
+    },
+    {
+        "podcastName": "Venus",
+        "episode": "Internet Avançada - Inteligencia emocional",
+        "videoID": "4KDGTdiOV4I",
+        "category": ["Motivacional","NodJS"]
     }
 ]
