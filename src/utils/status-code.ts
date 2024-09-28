@@ -8,6 +8,7 @@ export enum StatusCode {
     OK = 200,
     CREATED = 201,
     ACCEPTED = 202,
+    NOCONTENT = 204,
     // ... outros códigos de sucesso
 
     // Códigos de redirecionamento
